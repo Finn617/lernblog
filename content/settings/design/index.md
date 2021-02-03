@@ -1,8 +1,7 @@
 +++
 headless = true
 icon = ""
-logo = ""
+logo = "/media/dsc_0049-klein2.jpg"
 image = ""
 color = ""
 +++
-
